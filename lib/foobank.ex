@@ -1,0 +1,2 @@
+defmodule Foobank do
+end
